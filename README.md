@@ -1,1 +1,1 @@
-Projeto feito para meios de estudo, levando como base a calculado dos computadores da Apple.
+Projeto feito para meios de estudo, levando como base a calculadora dos computadores da Apple.
